@@ -1,4 +1,4 @@
-module archiver
+module github.com/179660663/archiver
 
 go 1.17
 
